@@ -24,11 +24,12 @@ He has given 200+ talks and workshops for communities over the past 5 years. His
 5. Developed an open-source project named Aura App which is used by 120+ worldwide communities.
 
 You can find him on
-(1) Twitter: https://twitter.com/VrijrajSingh
-(2) Github: https://github.com/vrijraj
-(3) Medium: https://medium.com/@vrijrajsingh
-(4) Website: https://vrijraj.xyz/
-(5) YouTube Channel: https://www.youtube.com/c/TechFerment
+
+1. Twitter: https://twitter.com/VrijrajSingh
+2. Github: https://github.com/vrijraj
+3. Medium: https://medium.com/@vrijrajsingh
+4. Website: https://vrijraj.xyz/
+5. YouTube Channel: https://www.youtube.com/c/TechFerment
 
 ---
 
